@@ -36,6 +36,6 @@ pip install opencv-python numpy matplotlib djitellopy
 
 🧑‍💻 Author
 
-Jayharish Shivakumar
+Jayharish Shivakumar <br>
 📍 University of Southampton — Mechatronic Engineering <br>
 📬 [LinkedIn](https://www.linkedin.com/in/jayharish-shivakumar-18591b275?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJ8gsKPwrTfK399uKGHno3w%3D%3D)
