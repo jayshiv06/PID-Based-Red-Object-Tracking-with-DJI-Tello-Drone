@@ -2,8 +2,6 @@
 
 This project uses a **PID controller** to enable a DJI Tello drone to autonomously track a red object using **computer vision** with OpenCV and `djitellopy`.
 
-![Tello PID Tracker](https://github.com/jayshiv06/PID-Based-Red-Object-Tracking-with-DJI-Tello-Drone/assets/your-image-link) <!-- Optional: add GIF or screenshot -->
-
 ---
 
 ## Features
