@@ -28,7 +28,7 @@ This project uses a **PID controller** to enable a DJI Tello drone to autonomous
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 pip install opencv-python numpy matplotlib djitellopy
