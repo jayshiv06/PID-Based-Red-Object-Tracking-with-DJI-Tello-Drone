@@ -32,3 +32,9 @@ This project uses a **PID controller** to enable a DJI Tello drone to autonomous
 
 ```bash
 pip install opencv-python numpy matplotlib djitellopy
+
+🧑‍💻 Author
+
+Jayharish Shivakumar
+📍 University of Southampton — Mechatronic Engineering
+📬 LinkedIn
