@@ -1,7 +1,1 @@
-## Requirements
 
-- Python 3.8 or higher
-- djitellopy
-- opencv-python
-- numpy
-- pupil_apriltags
